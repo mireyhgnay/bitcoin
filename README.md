@@ -18,7 +18,6 @@ npm start
 ### Using🥷
 
 - Styled Components
-
 - TypeScript(4v)
 - React Router Dom (6v)
   - useParams
