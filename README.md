@@ -32,10 +32,9 @@ npm start
 
 <br />
 
-![작업 결과 이미지_1](./docs/images/coin1.png)
+<img src="./docs/images/coin1.png" alt="작업 결과 이미지_1" 
+width="400" />
 
-![작업 결과 이미지_2](./docs/images/coin2.png)
-
-![작업 결과 이미지_3](./docs/images/coin3.png)
-
-![작업 결과 이미지_4](./docs/images/coin4.png)
+<img src="./docs/images/coin2.png" alt="작업 결과 이미지_2" width="400" />
+<img src="./docs/images/coin3.png" alt="작업 결과 이미지_3" width="400" />
+<img src="./docs/images/coin4.png" alt="작업 결과 이미지_4" width="400" />
