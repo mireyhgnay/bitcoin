@@ -31,3 +31,11 @@ npm start
 - Apex Charts
 
 <br />
+
+![작업 결과 이미지_1](./docs/images/coin1.png)
+
+![작업 결과 이미지_2](./docs/images/coin2.png)
+
+![작업 결과 이미지_3](./docs/images/coin3.png)
+
+![작업 결과 이미지_4](./docs/images/coin4.png)
